@@ -1,0 +1,7 @@
+.text-red{
+    background-image:url('../css/imgs/perlas1.avif');
+    height:400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
